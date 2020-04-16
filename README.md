@@ -1,0 +1,2 @@
+# NeuronoveSiete
+projekt do skoly
